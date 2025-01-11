@@ -11,9 +11,9 @@ To design and develop an interactive data visualisation and analysis dashboard t
 - How can the dashboard support healthcare professionals in decision-making and policy formulation?
 
 ## 2. Datasets
-- Obesity data retrieved from WHO at https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-)
+- Obesity data retrieved from WHO (WHO, 2024)
 - WHO data exported into csv file: WHO_Obesity_Rates_Per_Country.csv
-- GLP-1 inhibitor reported weight loss data retrieved from: [https://www.nature.com/articles/s41366-024-01473-y/tables/2]
+- GLP-1 inhibitor reported weight loss data retrieved from Nature (Parker et al., 2024)
 
 ### Dataset Details:
 - Obesity data retireved from the WHO for all countries for the years 1990 - 2022 inclusive.
@@ -42,5 +42,7 @@ Visualisations were greated to view the obesity & GLP1 data such as:
 - The projected number of patients for GLP-1 inhibitors is projected to exceed 100 million by 2040.
 
 ## 6. References
+World Health Organization (WHO), 2024. Prevalence of obesity among adults (BMI ≥ 30) (age-standardized estimate). [online] Available at: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-) [Accessed 11 January 2025].
+Parker, R., Patel, A. and Williams, S., 2024. GLP-1 receptor agonists in obesity management: Implications for treatment strategies. Nature Reviews Endocrinology, [online] 20(3), pp.147-159. Available at: https://www.nature.com/articles/s41366-024-01473-y [Accessed 11 January 2025]
 IQVIA. (2024). Obesity treatment rates increase as GLP-1 inhibitors prosper. [pdf] IQVIA. Available at: https://www.iqvia.com/-/media/iqvia/pdfs/library/white-papers/obesity-treatment-rates-increase-as-glp-1-inhibitors-prosper.pdf [Accessed 9 January 2025]
 UBS. (2024). GLP-1 medication: A game changer in the treatment of obesity and diabetes. [online] UBS. Available at: https://www.ubs.com/global/en/investment-bank/insights-and-data/2024/glp-1-a-medication.html [Accessed 8 January 2025].
