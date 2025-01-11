@@ -42,9 +42,9 @@ Visualisations were greated to view the obesity & GLP1 data such as:
 - The projected number of patients for GLP-1 inhibitors is projected to exceed 100 million by 2040.
 
 ## 6. References
-World Health Organization (WHO), 2024. Prevalence of obesity among adults (BMI ≥ 30) (age-standardized estimate). [online] Available at: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-) [Accessed 11 January 2025].
+World Health Organization (WHO), 2024. Prevalence of obesity among adults (BMI ≥ 30) (age-standardized estimate). [online] Available at: https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi--30-(age-standardized-estimate)-(-) [Accessed 2 January 2025].
 
-Parker, R., Patel, A. and Williams, S., 2024. GLP-1 receptor agonists in obesity management: Implications for treatment strategies. Nature Reviews Endocrinology, [online] 20(3), pp.147-159. Available at: https://www.nature.com/articles/s41366-024-01473-y [Accessed 11 January 2025]
+Parker, R., Patel, A. and Williams, S., 2024. GLP-1 receptor agonists in obesity management: Implications for treatment strategies. Nature Reviews Endocrinology, [online] 20(3), pp.147-159. Available at: https://www.nature.com/articles/s41366-024-01473-y [Accessed 2 January 2025]
 
 IQVIA. (2024). Obesity treatment rates increase as GLP-1 inhibitors prosper. [pdf] IQVIA. Available at: https://www.iqvia.com/-/media/iqvia/pdfs/library/white-papers/obesity-treatment-rates-increase-as-glp-1-inhibitors-prosper.pdf [Accessed 9 January 2025]
 
